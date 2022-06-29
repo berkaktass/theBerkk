@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am trying to be a frontend software engineer from turkey.
+Software engineer from turkey.
 - 🔭 Working on multiple frontend project using React and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
