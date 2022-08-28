@@ -1,6 +1,6 @@
 ### Hello World 👋
 Software engineer from turkey.
-- 🔭 Working on multiple frontend project using React and Nodejs
+- 🔭 Working on multiple frontend project using Javascript.
 - 🌱 Learning design patterns in depth
 <br>
 
