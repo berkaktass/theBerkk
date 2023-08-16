@@ -1,7 +1,15 @@
 ### Hello World 👋
 Software engineer from turkey.
-- 🔭 Working on multiple frontend project using Javascript.
-- 🌱 Learning design patterns in depth
+I am Berk Aktas! i am passionate software developer with a focus on creating clean, efficient, and scalable code👨‍💻.
+Experienced in multiple programming languages and frameworks, including Java, Spring, React, and Hibernate.
+Always eager to learn new technologies and approaches to software development.
+Committed to collaborating with others to create high-quality solutions to complex problems.
+When not coding,
+enjoys ;
+hiking 👟 ,
+listening hip-hop 🎧
+exploring new places 🧢
+swimming🏄‍♂️
 <br>
 
 ## Connect with me
@@ -16,6 +24,12 @@ Software engineer from turkey.
 <br>
 
 ## Expertise
+<img align="left" alt="java" src="https://img.shields.io/badge/java%20-%2320232a.svg?&style=for-the-badge&logo=java&logoColor=%F0DB4F" />
+
+<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%2320232a.svg?&style=for-the-badge&logo=spring&logoColor=%F0DB4F" />
+
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%F0DB4F" />
+
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%F0DB4F" />
 
 <img align="left" alt="css3" src="https://img.shields.io/badge/css3%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=%2965f1" />
