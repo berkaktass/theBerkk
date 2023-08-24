@@ -1,7 +1,7 @@
 ### Hello World 👋
 Software engineer from turkey.
 I am Berk Aktas! i am passionate software developer with a focus on creating clean, efficient, and scalable code👨‍💻.
-Experienced in multiple programming languages and frameworks, including Java, Spring, React, and Hibernate.
+Experienced in multiple programming languages and frameworks, including Java, Spring, React, and ORM Tools Hibernate.
 Always eager to learn new technologies and approaches to software development.
 Committed to collaborating with others to create high-quality solutions to complex problems.
 When not coding,
